@@ -1,9 +1,9 @@
 # JasReg
-![](tutor.jpeg)
+link APP
+https://github.com/NugNug99/JasReg/releases
 
+VID TUTOR
 ![](tutor.gif)
 
 
-link APP
 
-https://github.com/NugNug99/JasReg/releases
