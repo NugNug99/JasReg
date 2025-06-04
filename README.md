@@ -1,4 +1,4 @@
 # JasReg
 
 
-![](/tutor.mp4)
+![](tutor.gif)
