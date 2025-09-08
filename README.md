@@ -3,7 +3,7 @@
 
 
 link APP
-https://github.com/NugNug99/JasReg/releases
+[https://github.com/NugNug99/JasReg/releases](https://github.com/NugNug99/JasReg/releases/tag/v.1.6)
 
 
 channel Tele
